@@ -2,9 +2,9 @@
 
 ### My name is Safiya Zigangareeva 🙋
 
-I am a junior data scientist. I am attracted to data analysis and the creation of machine learning models for predicting results and optimizing business processes
+I am a data scientist. I am attracted to data analysis and the creation of machine learning models for predicting results and optimizing business processes
 
- - Strong knowledge of python (including libraries for data analysis - Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn)
+ - Сonfident knowledge of python (including libraries for data analysis - Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn)
  - DL (pytorch, tensorflow) in CV, NLP applications
  - SQL, Git, PySpark
 
